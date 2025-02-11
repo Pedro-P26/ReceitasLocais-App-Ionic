@@ -50,12 +50,12 @@ To set up and run the **Local Recipes of Viana do Castelo** app, follow these st
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/local-recipes-viana-app.git
+   git clone https://github.com/Pedro-P26/ReceitasLocais-App-Ionic.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd local-recipes-viana-app
+   cd ReceitasLocais-App-Ionic
    ```
 
 3. **Install dependencies**:
