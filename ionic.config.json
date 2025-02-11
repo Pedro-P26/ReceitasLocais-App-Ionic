@@ -1,0 +1,7 @@
+{
+  "name": "apptrabindiv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
